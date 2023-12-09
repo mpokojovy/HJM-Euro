@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Forecasting Euro Area Yield Curves Using the Heath-Jarrow-Morton Model  %
+% (C) Michael Pokojovy, Ebenezer Nkum and Thomas M. Fullerton, Jr. (2023) %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+This Matlab code implements calibration of the HJM model with application 
+to forecasting Euro Area yield curves.
+
+Run main.m file. Adjust settings if applicable.
+
+(C) Michael Pokojovy, Ebenezer Nkum and Thomas M. Fullerton, Jr. (2023)
+See license for license terms and conditions.
